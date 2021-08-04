@@ -1,2 +1,2 @@
 # ADC-drugmap-data
-Scraping ADC Review's Drug Map into useable format
+Scraping [ADC Drug Map](https://www.adcreview.com/adc-drugmap/) from The Journal of Antibody Drug Conjugates website into useable format
